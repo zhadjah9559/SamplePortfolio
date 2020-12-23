@@ -1,0 +1,38 @@
+#navigation.menu-two .navbar-nav > li:nth-child(1) a:hover, a:focus {
+    background-color: white;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(2) a:hover, a:focus {
+    background-color: #E6CDFF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(3) a:hover, a:focus {
+    background-color: #D2A6FF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(4) a:hover, a:focus {
+    background-color: #C58BFF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(5) a:hover, a:focus {
+    background-color: #C488FF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(6) a:hover, a:focus {
+    background-color: #B76AFF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(7) a:hover, a:focus {
+    background-color: #AD52FF;
+}
+
+#navigation.menu-two .navbar-nav > li:nth-child(8) a:hover, a:focus {
+    background-color: #8F17FF;
+}
+
+
+
+/*
+#navigation .navbar-nav li:nth-child(1) {
+    background-color: black;
+}*/
