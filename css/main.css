@@ -261,67 +261,37 @@ button:focus,
     background-color: black;
 }
 
-
-/*Beginning of Home link*/
-
 #navigation .navbar-nav>li:nth-child(1) {
     background-color: black;
 }
-
-
-/*INSERT Home animation*/
-
-
-/*End of Home link*/
 
 #navigation .navbar-nav>li:nth-child(2) {
     background-color: black;
 }
 
-
-/*About Me animation*/
-
 #navigation .navbar-nav>li:nth-child(3) {
     background-color: black;
 }
-
-
-/*Skills animation*/
 
 #navigation .navbar-nav>li:nth-child(4) {
     background-color: black;
 }
 
-
-/*Experience animation*/
-
 #navigation .navbar-nav>li:nth-child(5) {
     background-color: black;
 }
-
-
-/*Education animation*/
 
 #navigation .navbar-nav>li:nth-child(6) {
     background-color: black;
 }
 
-
-/*Portfolio animation*/
-
 #navigation .navbar-nav>li:nth-child(7) {
     background-color: black;
 }
 
-
-/*Contact animation*/
-
 #navigation .navbar-nav>li:nth-child(8) {
     background-color: black;
 }
-
-
-/*Blog animation*/
 
 #navigation .navbar-nav>li:nth-child(9) {
     background-color: black;
@@ -389,6 +359,7 @@ button:focus,
 
 #navigation.menu-two .navbar {
     display: block;
+    background-color:#28231d;
 }
 
 #navigation.menu-two .navbar-header {
