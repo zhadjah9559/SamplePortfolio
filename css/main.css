@@ -583,7 +583,6 @@ ul.sub-menu {
 
 
 /* About Section */
-
 .about-section .section-title {
     margin-bottom: 45px;
 }
@@ -1679,7 +1678,7 @@ a,
 }
 
  ::-webkit-scrollbar-track {
-    background: linear-gradient(white, #9400D3);
+    background: linear-gradient(white, #8F17FF);
 }
 
  ::-webkit-scrollbar-thumb {

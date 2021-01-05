@@ -1,39 +1,89 @@
-#navigation.menu-two .navbar-nav > li:nth-child(1) a:hover, a:focus {
-    background-color: white;    
-    filter: blur(20px);
-}
+/* #navigation.menu-two .navbar-nav> li a:focus {
+    background-color: blue !important; 
+} */
 
-#navigation.menu-two .navbar-nav > li:nth-child(2) a:hover, a:focus {
-    background-color: #E6CDFF;
-    filter: blur(20px);
+/* #navigation.menu-two .navbar-nav:focus {
+    box-shadow:0px 1px 10px 0px rgba(0, 0, 0, 0.5)  !important; 
+} */
+
+/*Home*/
+#navigation.menu-two .navbar-nav > li:nth-child(1) a:hover, a:focus {
+    z-index:-1;
+    color:black;
+    background-color: white; 
+    position: absolute;   
 }
+#navigation.menu-two .navbar-nav> li:nth-child(1) a:focus {
+    background-color:  white !important; 
+    color:black;
+
+}
+/*End Home*/
+
+
+/*About */
+#navigation.menu-two .navbar-nav > li:nth-child(2) a:hover, a:focus {
+    color:black;
+    background-color: #E6CDFF;
+}
+#navigation.menu-two .navbar-nav> li:nth-child(2) a:focus {
+    color:black;
+    background-color:  #E6CDFF !important; 
+}
+/*End About */
+
 
 #navigation.menu-two .navbar-nav > li:nth-child(3) a:hover, a:focus {
+    color:black;
     background-color: #D2A6FF;
-    filter: blur(20px);
+}
+#navigation.menu-two .navbar-nav> li:nth-child(3) a:focus {
+    color:black;
+    background-color:  #D2A6FF !important; 
 }
 
 #navigation.menu-two .navbar-nav > li:nth-child(4) a:hover, a:focus {
+    color:black;
     background-color: #C58BFF;
-    filter: blur(20px);
+}
+#navigation.menu-two .navbar-nav> li:nth-child(4) a:focus {
+    color:black;
+    background-color:  #C58BFF !important; 
 }
 
 #navigation.menu-two .navbar-nav > li:nth-child(5) a:hover, a:focus {
+    color:black;
     background-color: #C488FF;
-    filter: blur(20px);
+}
+#navigation.menu-two .navbar-nav> li:nth-child(5) a:focus {
+    color:black;
+    background-color:  #C488FF !important; 
 }
 
 #navigation.menu-two .navbar-nav > li:nth-child(6) a:hover, a:focus {
+    color:black;
     background-color: #B76AFF;
-    filter: blur(20px);
+}
+#navigation.menu-two .navbar-nav> li:nth-child(6) a:focus {
+    color:black;
+    background-color:  #B76AFF !important; 
 }
 
 #navigation.menu-two .navbar-nav > li:nth-child(7) a:hover, a:focus {
+    color:black;
     background-color: #AD52FF;
-    filter: blur(20px);
+}
+#navigation.menu-two .navbar-nav> li:nth-child(7) a:focus {
+    color:black;
+    background-color:  #AD52FF !important; 
 }
 
 #navigation.menu-two .navbar-nav > li:nth-child(8) a:hover, a:focus {
+    color:black;
     background-color: #8F17FF;
-    filter: blur(20px);
 }
+#navigation.menu-two .navbar-nav> li:nth-child(8) a:focus {
+    color:black;
+    background-color:  #8F17FF !important; 
+}
+
